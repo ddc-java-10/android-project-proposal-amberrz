@@ -26,17 +26,19 @@ Create a project proposal for a standalone Android project in this repository, a
 
 2. Clone this repository to your local system.
 
-3. In your local clone of the repository, edit `docs/_config.yml`, replacing the default values of the `author.name` and `author.href` properties with your name and a suitable URL (e.g. your GitHub profile page). Please preserve the formatting of this file, and the quotes around the values of the 2 modified properties. 
+3. In your local clone of the repository, edit `docs/_config.yml`, replacing the default values of the `author.name` and `author.href` properties with your name and a suitable URL (e.g. your GitHub profile page). Please preserve the formatting of this file, and the quotes around the values of the 2 modified properties.
 
-4. In your local clone of the repository, edit `docs/index.md` with the content of your proposal. 
+4. In your local clone of the repository, edit `docs/index.md` with the content of your proposal.
 
     * Edit the `title` and `description` properties in the _front matter_ (the lines at the top, between the 2 lines that contain just 3 dashes each) to make them specific to your proposal.
-    
+
     * Edit the Markdown content of the document to replace the instructions and sample content with content relevant to your project proposal.
 
-5. In your local clone of the repository, edit `README.md` (i.e. this file), to include a brief summmary of your project for display in the default GitHub view of your repo (note that it will not appear in the GitHub Pages site). 
+5. In your local clone of the repository, edit `README.md` (i.e. this file), to include a brief summmary of your project for display in the default GitHub view of your repo (note that it will not appear in the GitHub Pages site).
 
 6. Commit your changes and push them to GitHub.
 
 7. Review the GitHub Pages site created from your repository (via the URL referenced in step 1), as well as the summary displayed with the repository in GitHub, and repeat steps 4&ndash;5, as necessary.
 
+_Timed calls_
+is an app, that will allow you make late night calls with that special someone, if both of you fall asleep together on the call don't worry timed calls will end your call for you. You will never again wake up late.
