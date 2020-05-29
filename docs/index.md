@@ -24,20 +24,20 @@ _Timed calls_ is an app, that will allow you make late night calls with that spe
 
 * Timed Calls will send a minute warning before the call ends.
 
-* The User is able to use Timed Calls on other apps that content to their contacts.
+* Timed calls will suggest you to time the call if its past 8p.m..
 
 ## Persistent data
 
-* Timed Calls will notify you if you would want the call to be timed when its past 8p.m.
 
-* Timed Calls notify you to have access to your contacts.
+* Notify you to have access to your contacts.
 
-* Timed Calls will notify you if next time this contact calls you it will automatically set the previous time you have set.
+* Notified the end of call minute before it ends.
 
 
 ## Device/external services
 
-* Contacts
+* access to contact list
+* access to camera
 
 ## Stretch goals/possible enhancements
 
