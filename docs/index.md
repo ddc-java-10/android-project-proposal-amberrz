@@ -1,18 +1,18 @@
 ---
 title: Timed calls
-description: "You wont be waking up late again "
+description: "Set a time to end your call"
 layout: default
 ---
 
 ## Summary
 
-_Timed calls_ is an app, that will allow you make late night calls with that special someone, if both of you fall asleep together on the call don't worry timed calls will end your call for you. You will never again wake up late.
+_Timed calls_ is an application that will allow you set a timer on the phone call that you choose. Now you are able to have late night calls and fall asleep on the line with the person and not worry if the phone alarm wont go off because your still on the line. _Timed calls_ ended the call for you at the time you set it for.
 
 ## Intended users
 
-* People who are in a long distance relationship.
+* People who are in a long distance relationship, .
 
-    > As a person who is in a long distance relationship, I want to be able to have late night call with my significant other and be able to fall asleep, not worry that my alarm clock wont go off.
+    > As a person who is in a long distance relationship, I am always on the phone late at night and both my boyfriend and I will fall asleep on the call. when that would happen my phone alarm wouldn't go off. since I have downloaded the timed calls app I haven't woken up late for school .
 
 * Parents who travel a lot for work and have little ones at home.
 
@@ -20,11 +20,11 @@ _Timed calls_ is an app, that will allow you make late night calls with that spe
 
 ## Functionality
 
-* The User will be able set the timer at the being of the call.
+* History of calls that where automatically disconnected
 
-* Timed Calls will send a minute warning before the call ends.
+* Default timer sittings for certain contacts
 
-* Timed calls will suggest you to time the call if its past 8p.m..
+* Calls will be automatically be timed after 8 P.M.
 
 ## Persistent data
 
@@ -38,6 +38,9 @@ _Timed calls_ is an app, that will allow you make late night calls with that spe
 
 * access to contact list
 * access to camera
+* Yahoo Network Time Api
+* Synety cloud calls Api
+* Google sign in
 
 ## Stretch goals/possible enhancements
 
