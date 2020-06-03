@@ -38,9 +38,6 @@ _Timed calls_ is an application that will allow you set a timer on the phone cal
 
 * access to contact list
 * access to camera
-* Yahoo Network Time Api
-* Synety cloud calls Api
-* Google sign in
 
 ## Stretch goals/possible enhancements
 
